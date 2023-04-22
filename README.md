@@ -1,7 +1,7 @@
 <h1 align="center">Eai 👋, Sou o Kevyn</h1>
 <h3 align="center">Um desenvolvedor apaixonado por back-end do Brasil</h3>
 
-- 🌱 Atualmente aprendendo com **a Rocketseat 💜**
+- 💜 Atualmente aprendendo com a **Rocketseat**
 
 - 📫 Me mande um e-mail **kevynpawlowski@gmail.com**
 
